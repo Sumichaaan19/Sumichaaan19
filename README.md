@@ -1,9 +1,7 @@
-# Yahallo! 👋
-
+# Welcome to my Github 👋
 <p align="right">
   <img src="./Images/roshidere.gif" alt="6" width="33%" />
 </p>
-
 Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
 
 ## About Me
@@ -16,12 +14,6 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 - 📝 **Random Scripts & Notes** – Just for fun and learning
 
 ## My GitHub Stats
-
-![GitHub Snake](https://raw.githubusercontent.com/Sumichaaan19/Sumichaaan19/output/github-contribution-grid-snake.svg)
-
-
-## My GitHub Stats
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=cobalt&card_width=495" width="495px" height="195px"/></td>
