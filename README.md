@@ -17,7 +17,7 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 
 ## My GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ralphie&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 **Note:** This is not my main account. Feel free to explore my repositories! 😊
