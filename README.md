@@ -16,11 +16,13 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 - 📝 **Random Scripts & Notes** – Just for fun and learning
 
 ## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=graywhite)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=github" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=graywhite)
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumichaaan19&theme=github" />
 </p>
