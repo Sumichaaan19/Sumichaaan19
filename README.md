@@ -1,6 +1,6 @@
 # Yahallo! 👋
 
-<p align="center">
+<p align="left">
   <img src="./Images/roshidere.gif" alt="6" width="50%" />
 </p>
 
@@ -17,13 +17,14 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=graywhite)
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=github" />
 </p>
 
 
 <p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=graywhite)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumichaaan19&theme=github" />
 </p>
 
