@@ -20,9 +20,12 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 ![GitHub Snake](https://raw.githubusercontent.com/Sumichaaan19/Sumichaaan19/output/github-contribution-grid-snake.svg)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumichaaan19&layout=compact&theme=cobalt&langs_count=10&card_width=495)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=cobalt&card_width=495" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumichaaan19&layout=compact&theme=cobalt&langs_count=10&card_width=495" alt="Top Languages" /></td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=cobalt" />
 </p>
