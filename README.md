@@ -14,7 +14,6 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 
 ## What You'll Find Here
 - 📂 **Dotfiles** – My personal configurations and setups
-- 🎥 **Video Editing Projects** – Some of my past works
 - 📝 **Random Scripts & Notes** – Just for fun and learning
 
 ## My GitHub Stats
