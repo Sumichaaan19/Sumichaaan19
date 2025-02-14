@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
 
 ## About Me
-- 🎨 **Freelance Graphic Designer & Video Editor**
+- 🎨 **Hobbyist**
 - 💻 **IT Graduate**
 - 🔧 **Exploring and customizing Linux setups**
 
