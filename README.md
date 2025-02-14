@@ -20,6 +20,8 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=github" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=graywhite)
+
 
 **Note:** This is not my main account. Feel free to explore my repositories! 😊
 
