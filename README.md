@@ -22,6 +22,10 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=github" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=github" />
+</p>
+
 
 
 <p align="center">
