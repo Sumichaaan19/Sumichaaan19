@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 <p align="center">
-  <img src="./screenshots/2025-02-14-144659_hyprshot.png" alt="3" width="75%" />
+  <img src="./Images/roshidere.gif" alt="3" width="75%" />
 </p>
-<img src="./Images/roshidere.gif">
+
 
 Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
 
