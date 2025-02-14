@@ -1,5 +1,8 @@
 # Yahallo! 👋
 
+<p align="right">
+  <img src="./Images/roshidere.gif" alt="6" width="50%" />
+</p>
 <p align="left">
   <img src="./Images/roshidere.gif" alt="6" width="50%" />
 </p>
@@ -26,9 +29,9 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumichaaan19&theme=github" />
 </p>
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=graywhite)
-</p>
+
+
+
 
 **Note:** This is not my main account. Feel free to explore my repositories! 😊
 
