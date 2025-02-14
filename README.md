@@ -23,7 +23,7 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=cobalt)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumichaaan19&layout=compact&theme=cobalt&langs_count=10&card_width=495 card_height=222)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumichaaan19&layout=compact&theme=cobalt&langs_count=10&card_width=495 height=222)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=cobalt" />
