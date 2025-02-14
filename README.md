@@ -27,7 +27,9 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
     <td><img src="https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=cobalt&card_width=495" width="495px" height="195px"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumichaaan19&layout=compact&theme=cobalt&langs_count=10&card_width=495" width="495px" height="195px"/></td> 
  </tr>
+<p align="center">
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=cobalt" /></td>
+</p>
 </table>
 
 
