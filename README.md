@@ -16,8 +16,8 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 - 📝 **Random Scripts & Notes** – Just for fun and learning
 
 ## My GitHub Stats
-![GitHub Snake](https://github.com/Sumichaaan19/Sumichaaan19/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Snake](https://github.com/Sumichaaan19/Sumichaaan19/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=github" />
