@@ -20,5 +20,12 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumichaaan19&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumichaaan19&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumichaaan19&theme=tokyonight" />
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumichaaan19&theme=tokyonight)
+
 **Note:** This is not my main account. Feel free to explore my repositories! 😊
 
