@@ -3,9 +3,6 @@
 <p align="right">
   <img src="./Images/roshidere.gif" alt="6" width="50%" />
 </p>
-<p align="left">
-  <img src="./Images/roshidere.gif" alt="6" width="50%" />
-</p>
 
 Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
 
