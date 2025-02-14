@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Sumichaaan19/Sumichaaan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
 
-Here are some ideas to get you started:
+## About Me
+- 🎨 **Freelance Graphic Designer & Video Editor**
+- 💻 **IT Graduate**
+- 🔧 **Exploring and customizing Linux setups**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+- 📂 **Dotfiles** – My personal configurations and setups
+- 🎥 **Video Editing Projects** – Some of my past works
+- 📝 **Random Scripts & Notes** – Just for fun and learning
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphie&show_icons=true&theme=tokyonight)
+
+
+**Note:** This is not my main account. Feel free to explore my repositories! 😊
+
