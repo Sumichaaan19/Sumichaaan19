@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <p align="center">
-  <img src="./Images/roshidere.gif" alt="3" width="75%" />
+  <img src="./Images/roshidere.gif" alt="6" width="22%" />
 </p>
 
 
