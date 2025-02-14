@@ -26,10 +26,9 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 </p>
 
 
-
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumichaaan19&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumichaaan19&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumichaaan19&theme=tokyonight" />
 </p>
 
 
