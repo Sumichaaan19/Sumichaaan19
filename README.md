@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+<img src="Sumichaaan19/Images/roshidere.gif">
+
 Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
 
 ## About Me
