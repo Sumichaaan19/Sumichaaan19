@@ -6,8 +6,8 @@ Welcome to my GitHub profile! This is where I store my files, configurations, an
 
 ## About Me
 - 🎨 **Hobbyist**
-- 💻 **IT Graduate**
-- 🔧 **Exploring and customizing Linux setups**
+- 💻 **IT**
+- 🔧 **Exploring and customizing Linux setups and making nonsense projects**
 
 ## What You'll Find Here
 - 📂 **Dotfiles** – My personal configurations and setups
