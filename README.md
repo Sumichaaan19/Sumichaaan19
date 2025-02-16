@@ -8,7 +8,7 @@
       </p>
     </td>
     <td>
-      <img src="./Images/alya.gif" width="500px"/>
+      <img src="./Images/alya.gif" width="200px"/>
     </td>
   </tr>
 </table>
