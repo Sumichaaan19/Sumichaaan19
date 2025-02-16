@@ -1,17 +1,17 @@
-<h1 align="center">Welcome to my Github 👋</h1>
+<h1 align="center" style="color: #0088cc;">Welcome to my Github 👋</h1>
 
-<table>
+<table align="center" width="100%" border="0" style="border-collapse: collapse; background-color: #002240; border: 2px solid #005f87; border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.3);">
   <tr> 
-    <td>
-      <p style="font-size: 18px;">
-        <b>Welcome to my GitHub profile!</b> This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
-      </p>
+    <td style="padding: 15px; text-align: center; color: #ffffff; font-size: 18px;">
+      <b>Welcome to my GitHub profile!</b> This is where I store my files, configurations, and hobby projects. 
+      I use this space to keep track of my setups, scripts, and anything else I find useful.
     </td>
-    <td>
-      <img src="./Images/alya.gif" width="200px"/>
+    <td style="padding: 10px; text-align: center;">
+      <img src="./Images/alya.gif" width="300px"/>
     </td>
   </tr>
 </table>
+
 
 ## About Me
 - 🎨 **Hobbyist**
