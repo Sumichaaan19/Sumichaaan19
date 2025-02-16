@@ -1,18 +1,17 @@
-
-# Welcome to my Github 👋
+<h1 align="center">Welcome to my Github 👋</h1>
 
 <table>
   <tr> 
-<td>
-   Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
-  </td>
-<td>
+    <td>
+      <p style="font-size: 18px;">
+        <b>Welcome to my GitHub profile!</b> This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
+      </p>
+    </td>
+    <td>
       <img src="./Images/alya.gif" width="300px"/>
-  </td>
-    
+    </td>
   </tr>
 </table>
-
 
 ## About Me
 - 🎨 **Hobbyist**
@@ -34,11 +33,4 @@
 </p>
 </table>
 
-
-
-
-
-
-
 **Note:** This is not my main account. Feel free to explore my repositories! 😊
-
