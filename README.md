@@ -5,10 +5,10 @@
   <tr> 
 <td>
    Welcome to my GitHub profile! This is where I store my files, configurations, and hobby projects. I use this space to keep track of my setups, scripts, and anything else I find useful.
-</td>
+
 
       <img src="./Images/roshidere.gif" alt="Anime Character" width="250px"/>
-  
+  </td>
     
   </tr>
 </table>
