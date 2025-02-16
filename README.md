@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="./Images/anime_character.gif" alt="Anime Character" width="250px"/>
+      <img src="Sumichaaan19/Images/roshidere.gif" alt="Anime Character" width="250px"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Sumichaaan19&show_icons=true&theme=cobalt&card_width=495" width="495px" height="195px"/>
