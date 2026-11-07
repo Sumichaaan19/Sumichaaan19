@@ -18,7 +18,6 @@
 
 ## About Me
 - 🎨 **Hobbyist**
-- 💻 **IT**
 - 🔧 **Exploring and customizing Linux setups and making nonsense projects**
 
 ## What You'll Find Here
